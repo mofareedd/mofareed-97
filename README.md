@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fareed</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+## Hi I'm Mohamed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mofareed-97&label=Profile%20views&color=0e75b6&style=flat" alt="mofareed-97" /> </p>
+I'm Mohamed Fareed a Passionate Full Stack Web Developer. I Spend most of time coding outstanding projects or learning new tools.
 
-<p align="left"> <a href="https://twitter.com/mofr_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mofr_dev?logo=twitter&style=for-the-badge" alt="mofr_dev" /></a> </p>
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@mofrdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mofr_dev)](https://twitter.com/mofr_dev) [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfareed97/) [![Mail Badge](https://img.shields.io/badge/-mohamedfareed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.fareeed1997@gmail.com)
 
 - 🔭 I’m currently working on **InterCityXpress**
 
