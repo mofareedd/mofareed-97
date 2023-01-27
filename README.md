@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fareed</h1>
-<h3 align="center">A passionate fullstack developer from yemen</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofareed-97&label=Profile%20views&color=0e75b6&style=flat" alt="mofareed-97" /> </p>
