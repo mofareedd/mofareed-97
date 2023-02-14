@@ -8,7 +8,7 @@ I'm Mohamed Fareed a Passionate Full Stack Web Developer. I Spend most of time c
 
 - 🌱 I’m currently learning DSA with **Python**
 
-- 👨‍💻 All of my projects are available at [https://mofareed.com/](https://mofareed.com/)
+<!-- - 👨‍💻 All of my projects are available at [https://mofareed.com/](https://mofareed.com/) -->
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB.js,**
 
