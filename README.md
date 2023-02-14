@@ -6,9 +6,7 @@ I'm Mohamed Fareed a Passionate Full Stack Web Developer. I Spend most of time c
 
 [![Twitter Badge](https://img.shields.io/badge/-@mofrdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mofr_dev)](https://twitter.com/mofr_dev) [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfareed97/) [![Mail Badge](https://img.shields.io/badge/-mohamedfareed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.fareeed1997@gmail.com)
 
-- 🔭 I’m currently working on **InterCityXpress**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning DSA with **Python**
 
 - 👨‍💻 All of my projects are available at [https://mofareed.com/](https://mofareed.com/)
 
